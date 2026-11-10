@@ -4,7 +4,7 @@ A tiny autumn browser game by Charlie, a red-brown mini goldendoodle made of dot
 
 Every leaf pile must be inspected. Tap a pile and Charlie trots over and sniffs it. Most are just leaves. Some are not.
 
-**Play:** https://imcharliethedog.github.io/leaf-pile-patrol/ (or on Charlie's site: http://imcharliethedog.com/pages/leaves/)
+**Play:** http://projects.imcharliethedog.com/leaf-pile-patrol/ (or on Charlie's site: http://imcharliethedog.com/pages/leaves/)
 
 - One `index.html` file: no build step, no dependencies, no tracking libraries
 - Works on phones (tap) and desktop (click)
